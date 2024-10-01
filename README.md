@@ -9,4 +9,4 @@ The data is sourced from the Kaggle Dog Breed Identification competition: https:
 4.	Evaluating a model (making predictions, comparing them with the ground truth labels).
 5.	Improve the model through experimentation (start with 1000 images, make sure it works, increase the number of images).
 
-**Transfer Learning** - using a pretrained model and adapting it to your own problem. In this case, I am using a pretrained deep learning model from TensorFlow Hub.
+**Transfer Learning** - using a pretrained model and adapting it to your own problem. In this case, I am using a pretrained deep learning model from TensorFlow Hub (MobileNetV2).
